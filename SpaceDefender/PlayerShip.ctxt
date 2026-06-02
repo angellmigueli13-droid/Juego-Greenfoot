@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PlayerShip
+comment0.text=\r\n\ NAVE\ DEL\ JUGADOR\r\n\r\n\ Dos\ modos\ seg\u00FAn\ ShipType\:\r\n\ \ \ NORMAL\ \u2192\ velocidad\ 5,\ cooldown\ 20,\ dispara\ 1\ bala\ centrada\r\n\ \ \ TRIPLE\ \u2192\ velocidad\ 3,\ cooldown\ 35,\ dispara\ 3\ balas\ en\ abanico\r\n
+comment1.params=world\ type
+comment1.target=PlayerShip(SpaceWorld,\ SpaceWorld.ShipType)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ handleMovement()
+comment4.params=
+comment4.target=void\ handleShooting()
+comment5.params=
+comment5.target=void\ shootSingle()
+comment6.params=
+comment6.target=void\ shootTriple()
+comment7.params=
+comment7.target=void\ handleInvincibility()
+comment8.params=
+comment8.target=void\ checkCollisions()
+comment9.params=
+comment9.target=void\ takeDamage()
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlayerBullet
+comment0.text=\r\n\ Proyectil\ del\ jugador.\r\n\ driftX\ \=\ 0\ \ \u2192\ bala\ central\ (recta)\r\n\ driftX\ \=\ \u00B1N\ \u2192\ balas\ laterales\ de\ la\ nave\ Triple\ (diagonal\ leve)\r\n
+comment1.params=driftX
+comment1.target=PlayerBullet(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=EnemyShip
+comment0.text=\r\n\ NAVE\ ENEMIGA\r\n\ Movimiento\ lateral\ +\ descenso\ al\ rebotar.\r\n\ Dispara\ con\ frecuencia\ que\ escala\ por\ oleada.\r\n
+comment1.params=wave
+comment1.target=EnemyShip(int)
+comment2.params=
+comment2.target=void\ applyImage()
+comment2.text=\r\n\ Aplica\ color\ seg\u00FAn\ la\ vida\ actual\:\r\n\ \ \ 1\ HP\ \ \u2192\ imagen\ normal\ (verde)\r\n\ \ \ 2\ HP\ \ \u2192\ tinte\ naranja\r\n\ \ \ 3+\ HP\ \u2192\ tinte\ rojo\ intenso\r\n
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ handleShooting()
+comment6.params=
+comment6.target=void\ checkBulletHit()
+comment7.params=
+comment7.target=void\ destroy()
+comment8.params=
+comment8.target=int\ randomShootTimer()
+numComments=9

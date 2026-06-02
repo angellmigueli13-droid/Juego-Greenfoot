@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=Animaci\u00F3n\ de\ explosi\u00F3n\ procedural\ que\ se\ auto-elimina.
+comment1.params=
+comment1.target=Explosion()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+numComments=4

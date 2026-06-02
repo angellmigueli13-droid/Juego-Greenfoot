@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ LABEL\ -\ Etiqueta\ de\ texto\ para\ el\ HUD\r\n\ Actor\ auxiliar\ que\ muestra\ texto\ en\ pantalla\ con\ fondo\ semitransparente.\r\n
+comment1.params=text\ fontSize
+comment1.target=Label(java.lang.String,\ int)
+comment2.params=newText
+comment2.target=void\ setValue(java.lang.String)
+comment3.params=value
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=void\ updateImage()
+numComments=5

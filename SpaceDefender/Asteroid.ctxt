@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\r\n\ ASTEROIDE\ \u2014\ cae\ en\ diagonal,\ rota\ visualmente.\r\n\ SIEMPRE\ verifica\ getWorld()\ \!\=\ null\ antes\ de\ cualquier\ operaci\u00F3n\r\n\ para\ evitar\ ActorRemovedFromWorld.\r\n
+comment1.params=
+comment1.target=Asteroid()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

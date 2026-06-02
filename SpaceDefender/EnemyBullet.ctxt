@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnemyBullet
+comment0.text=Proyectil\ enemigo\ \u2014\ baja\ hacia\ el\ jugador.
+comment1.params=wave
+comment1.target=EnemyBullet(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
